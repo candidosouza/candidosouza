@@ -3,5 +3,6 @@
 
  <div>
   <a href="https://github.com/candidosouza">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candidosouza&layout=compact&langs_count=20&theme=highcontrast"/>
+   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candidosouza&layout=compact&langs_count=20&theme=highcontrast"/>
+  </a>
 </div>
