@@ -1,8 +1,8 @@
-## Fala meu querido, blz? Eu sou Candido Souza 👋
+## Opa querido(a), blz? Eu sou Candido Souza 👋
 
-Criar, desenvolver, não é apenas um trabalho, é uma paixão! :sparkles:
+:sparkles: Criar, desenvolver, não é apenas um trabalho, é uma paixão! :sparkles:
 
-> 💼 &nbsp; Trabalhando como Engenheiro de Software na School of Net/Code Education/Full Cycle
+💼 &nbsp; Trabalhando como Engenheiro de Software na School of Net/Code Education/Full Cycle
 
  <div>
   <a href="https://github.com/candidosouza">
