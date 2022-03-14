@@ -1,4 +1,4 @@
-## Opa querido(a), blz? Eu sou Candido Souza 👋
+## Opa, blz? Eu sou Candido Souza 👋
 
 :sparkles: Criar, desenvolver, não é apenas um trabalho, é uma paixão! :sparkles:
 
