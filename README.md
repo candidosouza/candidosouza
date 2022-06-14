@@ -2,7 +2,7 @@
 
 :sparkles: Criar, desenvolver, não é apenas um trabalho, é uma paixão! :sparkles:
 
-💼 &nbsp; Trabalhando como Engenheiro de Software na School of Net/Full Cycle
+💼 &nbsp; Trabalhando como Engenheiro de Software na Full Cycle
 
  <div>
   <a href="https://github.com/candidosouza">
