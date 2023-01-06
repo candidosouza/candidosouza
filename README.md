@@ -4,11 +4,9 @@
 
 💼 &nbsp; Trabalhando como Engenheiro de Software na [Full Cycle](https://fullcycle.com.br/)
 
- <div>
-  <a href="https://github.com/candidosouza">
-   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candidosouza&layout=compact&langs_count=20&theme=highcontrast"/>
-  </a>
- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candidosouza&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-candidosouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/c%C3%A2ndido-souza-1a1b9158/)](https://www.linkedin.com/in/c%C3%A2ndido-souza-1a1b9158//)
 [![Gmail Badge](https://img.shields.io/badge/-candidosouzza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:candidosouzza@gmail.com)](mailto:candidosouzza@gmail.com)
