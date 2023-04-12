@@ -2,7 +2,7 @@
 
 :sparkles: Criar, desenvolver, não é apenas um trabalho, é uma paixão! :sparkles:
 
-💼 &nbsp; Trabalhando como Engenheiro de Software na [Full Cycle](https://fullcycle.com.br/)
+💼 &nbsp; Trabalhando como Arquiteto de Software na [Full Cycle](https://fullcycle.com.br/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candidosouza&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
