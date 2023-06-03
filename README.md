@@ -2,8 +2,6 @@
 
 :sparkles: Criar, desenvolver, não é apenas um trabalho, é uma paixão! :sparkles:
 
-💼 &nbsp; Trabalhando como Arquiteto de Software na [Full Cycle](https://fullcycle.com.br/)
-
 <div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-candidosouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/c%C3%A2ndido-souza-1a1b9158/)](https://www.linkedin.com/in/c%C3%A2ndido-souza-1a1b9158//)
