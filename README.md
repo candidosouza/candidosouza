@@ -7,8 +7,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-candidosouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/c%C3%A2ndido-souza-1a1b9158/)](https://www.linkedin.com/in/c%C3%A2ndido-souza-1a1b9158//)
 [![Gmail Badge](https://img.shields.io/badge/-candidosouzza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:candidosouzza@gmail.com)](mailto:candidosouzza@gmail.com)
  
-Estudante de programação web desde 2011, com atualizações constantes para desenvolvimento, sempre buscando a melhoria contínua da qualidade. Atento com novas tecnologias. 
-Atualmente uso linguagens como Python, Php, Javascrit/Typescript. Mas linguagem de programação não me define, já me aventurei com Go lang, Java, C#, entre outras...
+Sou um desenvolvedor web com experiência desde 2011, dedicado a aprimorar constantemente minhas habilidades de programação e buscar a excelência na qualidade do desenvolvimento. Estou sempre atento às novas tecnologias e atualmente me concentro na linguagem Python. No entanto, minha experiência se estende além disso, Já trabalhei com PHP, JavaScript/TypeScript, Go Lang entre outras linguagens ao longo da minha carreira.
+
+Tenho amplo conhecimento em diversas áreas, incluindo Docker, testes unitários, testes de integração, testes end-to-end, padrões de projetos, arquitetura limpa, SOLID, DDD, API REST, desenvolvimento de microsserviços, mensageria, observabilidade, CI/CD, bancos de dados, captação de leads, otimização de mecanismos de busca e sistemas de engajamento de usuário, além de e-mail marketing para portal estudantil.
+
+Tenho formação em Sistemas de Informação, pós-graduação em Engenharia de Software e estou atualmente cursando um MBA em Arquitetura Full Cycle. Também estou estudando no Curso Full Cycle para aprimorar ainda mais meus conhecimentos.
 
 ; )
 
