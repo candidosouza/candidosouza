@@ -9,7 +9,7 @@ Tenho formação em Sistemas de Informação, pós-graduação em Engenharia de 
 
 ; )
 
-[![Linkedin Badge](https://img.shields.io/badge/-candidosouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//candido-souza-1a1b9158/)](https://www.linkedin.com/in//candido-souza-1a1b9158/)
+[![Linkedin Badge](https://img.shields.io/badge/-candidosouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/candido-souza-1a1b9158/)](https://www.linkedin.com/in/candido-souza-1a1b9158/)
 [![Gmail Badge](https://img.shields.io/badge/-candidosouzza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:candidosouzza@gmail.com)](mailto:candidosouzza@gmail.com)
 
 </div>
