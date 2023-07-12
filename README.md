@@ -3,9 +3,7 @@
 <div> 
 Sou um desenvolvedor web com experiência desde 2011, dedicado a aprimorar constantemente minhas habilidades de programação e buscar a excelência na qualidade do desenvolvimento. Estou sempre atento às novas tecnologias e atualmente me concentro na linguagem Python. No entanto, minha experiência se estende além disso, Já trabalhei com PHP, JavaScript/TypeScript, Go Lang entre outras linguagens ao longo da minha carreira.
 
-Tenho amplo conhecimento em diversas áreas, incluindo Docker, testes unitários, testes de integração, testes end-to-end, padrões de projetos, arquitetura limpa, SOLID, DDD, API REST, desenvolvimento de microsserviços, mensageria, observabilidade, CI/CD, bancos de dados, captação de leads, otimização de mecanismos de busca e sistemas de engajamento de usuário, além de e-mail marketing para portal estudantil.
-
-Tenho formação em Sistemas de Informação, pós-graduação em Engenharia de Software e estou atualmente cursando um MBA em Arquitetura Full Cycle. Também estou estudando no Curso Full Cycle para aprimorar ainda mais meus conhecimentos.
+Tenho amplo conhecimento em diversas áreas, incluindo Docker, testes unitários, testes de integração, testes end-to-end, padrões de projetos, arquitetura limpa, SOLID, DDD, API REST, desenvolvimento de microsserviços, mensageria, observabilidade, CI/CD, bancos de dados...
 
 ; )
 
