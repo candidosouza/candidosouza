@@ -1,7 +1,7 @@
 ## Olá, Tdo bem? Eu sou Candido Souza 👋
 
 <div> 
-Sou um desenvolvedor web com experiência desde 2011, dedicado a aprimorar constantemente minhas habilidades de programação e buscar a excelência na qualidade do desenvolvimento. Estou sempre atento às novas tecnologias e atualmente me concentro na linguagem Python. No entanto, minha experiência se estende além disso, Já trabalhei com PHP, JavaScript/TypeScript, Go Lang entre outras linguagens ao longo da minha carreira.
+Sou um desenvolvedor web com experiência desde 2011, dedicado a aprimorar constantemente minhas habilidades de programação e buscar a excelência na qualidade do desenvolvimento. Estou sempre atento às novas tecnologias e atualmente me concentro nas linguagens Python e JavaScript/TypeScript. No entanto, minha experiência se estende além disso, Já trabalhei com PHP, Go Lang entre outras linguagens ao longo da minha carreira.
 
 Tenho amplo conhecimento em diversas áreas, incluindo Docker, testes unitários, testes de integração, testes end-to-end, padrões de projetos, arquitetura limpa, SOLID, DDD, API REST, desenvolvimento de microsserviços, mensageria, observabilidade, CI/CD, bancos de dados...
 
