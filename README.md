@@ -1,11 +1,6 @@
 ## Olá, Tdo bem? Eu sou Candido Souza 👋
 
-<div> 
-Sou um desenvolvedor web com experiência desde 2011, dedicado a aprimorar constantemente minhas habilidades de programação e buscar a excelência na qualidade do desenvolvimento. Estou sempre atento às novas tecnologias e atualmente me concentro nas linguagens Python e JavaScript/TypeScript. No entanto, minha experiência se estende além disso, Já trabalhei com PHP, Go Lang entre outras linguagens ao longo da minha carreira.
-
-Tenho amplo conhecimento em diversas áreas, incluindo Docker, testes unitários, testes de integração, testes end-to-end, padrões de projetos, arquitetura limpa, SOLID, DDD, API REST, desenvolvimento de microsserviços, mensageria, observabilidade, CI/CD, bancos de dados...
-
-; )
+<div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-candidosouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/candido-souza-1a1b9158/)](https://www.linkedin.com/in/candido-souza-1a1b9158/)
 [![Gmail Badge](https://img.shields.io/badge/-candidosouzza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:candidosouzza@gmail.com)](mailto:candidosouzza@gmail.com)
